@@ -1,0 +1,52 @@
+.reader-top{max-width:900px;margin:auto;padding:18px;display:flex;justify-content:space-between;gap:12px}.reader-top a{color:var(--green);text-decoration:none;font-size:13px}.reader-main{max-width:850px;margin:auto;padding:12px 18px 50px}.reader-title{text-align:center;font:800 clamp(26px,4vw,42px) Nunito,sans-serif}.scene{max-width:760px;margin:0 auto 20px;border:1px solid var(--line);border-radius:17px;overflow:hidden;background:var(--paper);box-shadow:var(--shadow)}.scene img{width:100%;max-height:65vh;object-fit:cover;display:block}.scene-copy{padding:18px}.narration{font-size:16px;line-height:1.8}.dialogue{border:2px solid var(--ink);border-radius:20px;background:white;padding:12px 15px;margin:10px 0;line-height:1.6}.dialogue strong{display:block;color:var(--green);font-size:11px;margin-bottom:3px}.reader-nav{max-width:760px;margin:22px auto;display:flex;justify-content:space-between;align-items:center;gap:10px}.reader-nav button{background:var(--deep);color:white;border:0;border-radius:10px;padding:12px;font-weight:700}.reader-nav button:disabled{opacity:.4}@media(max-width:520px){.reader-top{padding:15px;align-items:flex-start;flex-wrap:wrap}.reader-main{padding:10px}.scene-copy{padding:14px}.narration{font-size:15px}}
+/* Restored original full-page comic artwork */
+.comic-page {
+  display: block;
+  width: 100%;
+  max-width: 650px;
+  height: auto;
+  margin: 0 auto 24px;
+  border-radius: 14px;
+  box-shadow: var(--shadow);
+}
+
+/* Katha Loka story actions */
+.story-actions {
+  max-width: 760px;
+  margin: 12px auto 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+.story-action {
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--paper);
+  color: var(--green);
+  padding: 10px 17px;
+  font: inherit;
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+}
+.story-action:hover { background: #edf2e9; }
+.story-action.is-liked { color: #b52f50; }
+.story-qr-panel {
+  max-width: 300px;
+  margin: 0 auto 22px;
+  padding: 18px;
+  text-align: center;
+  overflow-wrap: anywhere;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: 16px;
+}
+.story-qr-panel[hidden] { display: none; }
+.story-qr-panel img { max-width: 100%; height: auto; }
+.story-qr-panel small { color: #666; }
+
+/* Single-page comic: hide scene navigation and counter */
+body:has(.comic-page) .reader-nav {
+  display: none !important;
+}

@@ -1,5 +1,0 @@
-.venv/\n__pycache__/\n.env\n.DS_Store\n*.py[cod]
-.env.*
-!.env.example
-.pytest_cache/
-.playwright/
