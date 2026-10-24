@@ -1,0 +1,27 @@
+{
+  "slug": "the-lion-and-the-mouse",
+  "status": "draft",
+  "ageLabel": "AGES 6–8",
+  "sceneCount": 5,
+  "cover": "/assets/images/the-lion-and-the-mouse-cover.jpg",
+  "coverAlt": {
+    "en": "Story cover",
+    "kn": "ಕಥೆಯ ಮುಖಪುಟ"
+  },
+  "category": {
+    "en": "NEW STORY",
+    "kn": "ಹೊಸ ಕಥೆ"
+  },
+  "title": {
+    "en": "Add English title",
+    "kn": "ಕನ್ನಡ ಶೀರ್ಷಿಕೆ ಸೇರಿಸಿ"
+  },
+  "description": {
+    "en": "Add a short description.",
+    "kn": "ಚಿಕ್ಕ ವಿವರಣೆ ಸೇರಿಸಿ."
+  },
+  "moral": {
+    "en": "",
+    "kn": ""
+  }
+}

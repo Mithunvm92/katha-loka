@@ -1,0 +1,9 @@
+{
+  "name": "katha-loka",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "build": "python3 scripts/build.py",
+    "dev": "python3 -m http.server 8788 --directory site"
+  }
+}

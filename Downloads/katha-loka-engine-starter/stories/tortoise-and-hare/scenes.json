@@ -1,0 +1,67 @@
+{
+  "slug": "tortoise-and-hare",
+  "scenes": [
+    {
+      "id": "hello",
+      "image": "scene-01.jpg",
+      "narration": {
+        "en": "A hare and a tortoise lived near a quiet forest.",
+        "kn": "ಒಂದು ಸುಂದರ ಕಾಡಿನ ಬಳಿ ಮೊಲ ಮತ್ತು ಆಮೆ ವಾಸಿಸುತ್ತಿದ್ದವು."
+      },
+      "dialogue": [
+        {
+          "character": "Hare",
+          "en": "Hello, friend!",
+          "kn": "ನಮಸ್ಕಾರ, ಗೆಳೆಯಾ!"
+        },
+        {
+          "character": "Tortoise",
+          "en": "Hello! How are you?",
+          "kn": "ನಮಸ್ಕಾರ! ನೀನು ಹೇಗಿದ್ದೀಯ?"
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "image": "scene-02.jpg",
+      "narration": {
+        "en": "The hare was proud of being fast.",
+        "kn": "ಮೊಲವು ತನ್ನ ವೇಗದ ಬಗ್ಗೆ ಹೆಮ್ಮೆಪಡುತ್ತಿತ್ತು."
+      },
+      "dialogue": [
+        {
+          "character": "Hare",
+          "en": "I can run much faster than you!",
+          "kn": "ನಾನು ನಿನಗಿಂತ ವೇಗವಾಗಿ ಓಡಬಲ್ಲೆ!"
+        }
+      ]
+    },
+    {
+      "id": "race",
+      "image": "scene-03.jpg",
+      "narration": {
+        "en": "The race began. The tortoise kept walking, one step at a time.",
+        "kn": "ಓಟ ಆರಂಭವಾಯಿತು. ಆಮೆ ಒಂದೊಂದೇ ಹೆಜ್ಜೆ ಇಡುತ್ತಾ ಸಾಗಿತು."
+      },
+      "dialogue": []
+    },
+    {
+      "id": "nap",
+      "image": "scene-04.jpg",
+      "narration": {
+        "en": "The hare felt sure he would win, so he stopped for a nap.",
+        "kn": "ತಾನೇ ಗೆಲ್ಲುತ್ತೇನೆ ಎಂದುಕೊಂಡ ಮೊಲ ನಿದ್ರೆ ಮಾಡಲು ನಿಂತಿತು."
+      },
+      "dialogue": []
+    },
+    {
+      "id": "finish",
+      "image": "scene-05.jpg",
+      "narration": {
+        "en": "The tortoise kept going and won. Slow and steady can win the race!",
+        "kn": "ಆಮೆ ನಿಲ್ಲದೆ ಸಾಗಿತು ಮತ್ತು ಗೆದ್ದಿತು. ನಿಧಾನವಾದರೂ ನಿರಂತರವಾಗಿ ಸಾಗು!"
+      },
+      "dialogue": []
+    }
+  ]
+}

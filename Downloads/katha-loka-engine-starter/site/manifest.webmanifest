@@ -1,0 +1,8 @@
+{
+  "name": "Katha Loka",
+  "short_name": "Katha Loka",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf8f1",
+  "theme_color": "#faf8f1"
+}

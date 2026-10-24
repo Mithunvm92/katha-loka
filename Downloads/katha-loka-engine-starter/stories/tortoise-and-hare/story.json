@@ -1,0 +1,27 @@
+{
+  "slug": "tortoise-and-hare",
+  "status": "published",
+  "ageLabel": "AGES 6–8",
+  "sceneCount": 5,
+  "cover": "/assets/images/tortoise-hare-cover.jpg",
+  "coverAlt": {
+    "en": "A representative comic scene featuring the rabbit and tortoise",
+    "kn": "ಆಮೆ ಮತ್ತು ಮೊಲದ ಚಿತ್ರಕಥೆಯ ಒಂದು ದೃಶ್ಯ"
+  },
+  "category": {
+    "en": "CLASSIC FABLE",
+    "kn": "ನೀತಿಕಥೆ"
+  },
+  "title": {
+    "en": "The Tortoise and the Hare",
+    "kn": "ಆಮೆ ಮತ್ತು ಮೊಲ"
+  },
+  "description": {
+    "en": "A speedy hare learns that steady steps can take you a long way. Read the illustrated comic and discover how the race ends.",
+    "kn": "ವೇಗದ ಮೊಲಕ್ಕೆ ನಿರಂತರ ಪ್ರಯತ್ನದ ಮಹತ್ವ ತಿಳಿಯುತ್ತದೆ. ಚಿತ್ರಕಥೆಯನ್ನು ಓದಿ, ಓಟದ ಅಂತ್ಯವನ್ನು ಕಂಡುಕೊಳ್ಳಿ."
+  },
+  "moral": {
+    "en": "🌱 Slow and steady can win the race.",
+    "kn": "🌱 ನಿಧಾನವಾಗಿ, ನಿರಂತರವಾಗಿ ಸಾಗಿದರೂ ಗೆಲ್ಲಬಹುದು."
+  }
+}

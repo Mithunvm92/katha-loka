@@ -1,0 +1,50 @@
+{
+  "slug": "the-lion-and-the-mouse",
+  "scenes": [
+    {
+      "id": "scene-01",
+      "image": "scene-01.jpg",
+      "narration": {
+        "en": "Add English narration for scene 1.",
+        "kn": "1ನೇ ದೃಶ್ಯದ ಕನ್ನಡ ನಿರೂಪಣೆ ಸೇರಿಸಿ."
+      },
+      "dialogue": []
+    },
+    {
+      "id": "scene-02",
+      "image": "scene-02.jpg",
+      "narration": {
+        "en": "Add English narration for scene 2.",
+        "kn": "2ನೇ ದೃಶ್ಯದ ಕನ್ನಡ ನಿರೂಪಣೆ ಸೇರಿಸಿ."
+      },
+      "dialogue": []
+    },
+    {
+      "id": "scene-03",
+      "image": "scene-03.jpg",
+      "narration": {
+        "en": "Add English narration for scene 3.",
+        "kn": "3ನೇ ದೃಶ್ಯದ ಕನ್ನಡ ನಿರೂಪಣೆ ಸೇರಿಸಿ."
+      },
+      "dialogue": []
+    },
+    {
+      "id": "scene-04",
+      "image": "scene-04.jpg",
+      "narration": {
+        "en": "Add English narration for scene 4.",
+        "kn": "4ನೇ ದೃಶ್ಯದ ಕನ್ನಡ ನಿರೂಪಣೆ ಸೇರಿಸಿ."
+      },
+      "dialogue": []
+    },
+    {
+      "id": "scene-05",
+      "image": "scene-05.jpg",
+      "narration": {
+        "en": "Add English narration for scene 5.",
+        "kn": "5ನೇ ದೃಶ್ಯದ ಕನ್ನಡ ನಿರೂಪಣೆ ಸೇರಿಸಿ."
+      },
+      "dialogue": []
+    }
+  ]
+}
